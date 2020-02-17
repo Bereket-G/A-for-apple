@@ -1,52 +1,54 @@
 
 ### Z fun Programming dictionary 
 
-- **A** - *( Andriod , Ajax , AWS , ASP )*
+- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet) )*
 
-- **B** - *( Bash )*
+- **B** - *( [Bash](https://www.gnu.org/software/bash/) )*
 
-- **C** - *( C, C# , C++ , CSS )*
+- **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) )*
 
-- **D** - *( D3, Database , Django, Docker )*
+- **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/) )*
 
 - **E** - *( )*
 
-- **F** - *( F#, Flask, Firebase, Flutter )*
+- **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/) )*
 
-- **G** - *( Git , Go ,  )*
+- **G** - *( [Git](https://git-scm.com/) , [Go](https://golang.org/)  )*
 
-- **H** - *( Hadoop, Haskell, Heroku, Hibernate, HTML , HTTP )*
+- **H** - *( [Hadoop](https://hadoop.apache.org/), [Haskell](https://www.haskell.org/), [Heroku](https://www.heroku.com/), [Hibernate](https://hibernate.org/), [HTML](https://en.wikipedia.org/wiki/HTML) , [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) )*
 
-- **I** - *( Ionic , IOS )*
+- **I** - *( [Ionic](https://ionicframework.com/) , [IOS](https://en.wikipedia.org/wiki/IOS) )*
 
-- **J** - *( Javascript, Jenkins )*
+- **J** - *( [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
 
-- **L** - *( Linux , Laravel )*
+- **L** - *( [Linux](https://www.linux.org/) , [Laravel](https://laravel.com/) )*
 
-- **M** - *( Maven , Mongo , MySQL )*
+- **M** - *( [Maven](https://maven.apache.org/) , [Mongo](https://www.mongodb.com/) , [MySQL](https://www.mysql.com/) )*
 
-- **N** - *( NoSQL , Numpy )*
+- **N** - *( [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/) )*
 
-- **O** - *( OOP , Oracle )*
+- **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html) )*
 
-- **P** - *( Pandas, PHP, Python )*
+- **P** - *( [Pandas](https://pandas.pydata.org/) , [PHP](https://www.php.net/) , [Python](https://www.python.org/) )*
 
-- **Q** - *( Queue )*
+- **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/) )*
 
-- **R** - *( R, REST, Ruby )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Ruby](https://www.ruby-lang.org/en/) )*
 
-- **S** - *( Scala, Swift, Stack-Overflow, SQL )*
+- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL) )*
 
-- **T** - *( Terminal )*
+- **T** - *( [Terminal](http://linuxcommand.org/) )*
  
-- **U** - *( Unix, URL )*
+- **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
-- **V** - *( vba )*
+- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) )*
 
-- **W** - *( Web )*
+- **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
 
-- **X** - *( XML )*
+- **X** - *( [XML](https://www.xml.com/) )*
 
 - **Y** - *(  )*
 
-- **Z** - *( Zend )*
+- **Z** - *( [Zend](https://framework.zend.com/) )*
+
+
