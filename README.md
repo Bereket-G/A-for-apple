@@ -4,7 +4,7 @@
 
 ### Z fun Programming dictionary 
 
-- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet) )*
+- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet) )*
 
 - **B** - *( [Bash](https://www.gnu.org/software/bash/) )*
 
