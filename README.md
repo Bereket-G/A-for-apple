@@ -10,9 +10,9 @@
 
 - **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) )*
 
-- **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/) )*
+- **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/) )*
 
-- **E** - *( )*
+- **E** - *( [Eclipse](https://www.eclipse.org/), [Elixir](https://elixir-lang.org/) )*
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/) )*
 
@@ -24,13 +24,13 @@
 
 - **J** - *( [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
 
-- **L** - *( [Linux](https://www.linux.org/) , [Laravel](https://laravel.com/) )*
+- **L** - *( [Linux](https://www.linux.org/) , [Laravel](https://laravel.com/), [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) )*
 
 - **M** - *( [Maven](https://maven.apache.org/) , [Mongo](https://www.mongodb.com/) , [MySQL](https://www.mysql.com/) )*
 
 - **N** - *( [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/) )*
 
-- **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html) )*
+- **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html), [ohmyzsh](https://ohmyz.sh/) )*
 
 - **P** - *( [Pandas](https://pandas.pydata.org/) , [PHP](https://www.php.net/) , [Python](https://www.python.org/) )*
 
@@ -44,7 +44,7 @@
  
 - **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
-- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) )*
+- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/)  )*
 
 - **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
 
