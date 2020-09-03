@@ -4,7 +4,7 @@
 
 ### Z fun Programming dictionary 
 
-- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet) )*
+- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet) )*
 
 - **B** - *( [Bash](https://www.gnu.org/software/bash/) )*
 
@@ -23,6 +23,8 @@
 - **I** - *( [Ionic](https://ionicframework.com/) , [IOS](https://en.wikipedia.org/wiki/IOS) )*
 
 - **J** - *( [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
+
+- **K** - *( [Kotlin](https://kotlinlang.org/) )*
 
 - **L** - *( [Linux](https://www.linux.org/) , [Laravel](https://laravel.com/), [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) )*
 
@@ -50,7 +52,7 @@
 
 - **X** - *( [XML](https://www.xml.com/) )*
 
-- **Y** - *(  )*
+- **Y** - *( [YAML](https://yaml.org/) )*
 
 - **Z** - *( [Zend](https://framework.zend.com/) )*
 
