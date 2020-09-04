@@ -12,7 +12,7 @@
 
 - **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/) )*
 
-- **E** - *( [Eclipse](https://www.eclipse.org/), [Elixir](https://elixir-lang.org/) )*
+- **E** - *( [Eclipse](https://www.eclipse.org/), [Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/) )*
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/) )*
 
@@ -42,7 +42,7 @@
 
 - **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL) )*
 
-- **T** - *( [Terminal](http://linuxcommand.org/) )*
+- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/) )*
  
 - **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
