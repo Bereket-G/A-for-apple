@@ -16,11 +16,11 @@
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/) )*
 
-- **G** - *( [Git](https://git-scm.com/) , [Go](https://golang.org/)  )*
+- **G** - *( [Git](https://git-scm.com/) , [Go](https://golang.org/), [Gridsome](https://gridsome.org/), [GraphQL](https://graphql.org/)  )*
 
 - **H** - *( [Hadoop](https://hadoop.apache.org/), [Haskell](https://www.haskell.org/), [Heroku](https://www.heroku.com/), [Hibernate](https://hibernate.org/), [HTML](https://en.wikipedia.org/wiki/HTML) , [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) )*
 
-- **I** - *( [Ionic](https://ionicframework.com/) , [IOS](https://en.wikipedia.org/wiki/IOS) )*
+- **I** - *( [Ionic](https://ionicframework.com/) , [IOS](https://en.wikipedia.org/wiki/IOS), [Inkline](https://inkline.io/) )*
 
 - **J** - *( [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
 
@@ -30,7 +30,7 @@
 
 - **M** - *( [Maven](https://maven.apache.org/) , [Mongo](https://www.mongodb.com/) , [MySQL](https://www.mysql.com/) )*
 
-- **N** - *( [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/) )*
+- **N** - *( [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/), [Nuxt.js](https://nuxtjs.org/) )*
 
 - **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html), [ohmyzsh](https://ohmyz.sh/) )*
 
@@ -40,13 +40,13 @@
 
 - **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Ruby](https://www.ruby-lang.org/en/) )*
 
-- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL) )*
+- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/) )*
 
-- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/) )*
+- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/) )*
  
 - **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
-- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/)  )*
+- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/)  )*
 
 - **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
 
