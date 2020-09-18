@@ -6,7 +6,7 @@
 
 - **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet), [Angular](https://angular.io/) )*
 
-- **B** - *( [Bash](https://www.gnu.org/software/bash/) )*
+- **B** - *( [Bash](https://www.gnu.org/software/bash/), [Bootstrap](https://getbootstrap.com) )*
 
 - **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) )*
 
