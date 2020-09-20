@@ -40,9 +40,9 @@
 
 - **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Ruby](https://www.ruby-lang.org/en/), [React](https://reactjs.org/) )*
 
-- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/) )*
+- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
 
-- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/) )*
+- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) )*
  
 - **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
