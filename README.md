@@ -22,7 +22,7 @@
 
 - **I** - *( [Ionic](https://ionicframework.com/) , [IOS](https://en.wikipedia.org/wiki/IOS), [Inkline](https://inkline.io/) )*
 
-- **J** - *( [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
+- **J** - *( [Java](https://www.java.com/en/), [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
 
 - **K** - *( [Kotlin](https://kotlinlang.org/) )*
 
@@ -38,15 +38,15 @@
 
 - **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/) )*
 
-- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [Ruby](https://www.ruby-lang.org/en/), [React](https://reactjs.org/) )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/) )*
 
 - **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
 
 - **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) )*
  
-- **U** - *( [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
+- **U** - *( [Ubuntu](https://ubuntu.com/), [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
-- **V** - *( [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/)  )*
+- **V** - *( [Visualstudio](https://visualstudio.microsoft.com/), [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/) )*
 
 - **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
 
