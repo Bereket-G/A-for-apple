@@ -30,7 +30,7 @@
 
 - **M** - *( [Maven](https://maven.apache.org/) , [Mongo](https://www.mongodb.com/) , [MySQL](https://www.mysql.com/) )*
 
-- **N** - *( [Node.js](https://nodejs.org/), [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/), [Nuxt.js](https://nuxtjs.org/), [Npm](http://npmjs.com/) )*
+- **N** - *( [Node.js](https://nodejs.org/), [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/), [Nuxt.js](https://nuxtjs.org/), [Npm](http://npmjs.com/), [Next.Js](https://nextjs.org/) )*
 
 - **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html), [ohmyzsh](https://ohmyz.sh/) )*
 
