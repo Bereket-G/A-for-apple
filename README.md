@@ -12,7 +12,7 @@
 
 - **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/) )*
 
-- **E** - *( [Eclipse](https://www.eclipse.org/), [Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/) )*
+- **E** - *( [Eclipse](https://www.eclipse.org/),[Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/), [Express](https://expressjs.com/) )*
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/), [Framer](https://www.framer.com/) )*
 
@@ -30,7 +30,7 @@
 
 - **M** - *( [Maven](https://maven.apache.org/) , [Mongo](https://www.mongodb.com/) , [MySQL](https://www.mysql.com/) )*
 
-- **N** - *( [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/), [Nuxt.js](https://nuxtjs.org/), [Npm](http://npmjs.com/) )*
+- **N** - *( [Node](https://nodejs.org/), [NoSQL](https://en.wikipedia.org/wiki/NoSQL) , [Numpy](https://numpy.org/), [Nuxt.js](https://nuxtjs.org/), [Npm](http://npmjs.com/) )*
 
 - **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html), [ohmyzsh](https://ohmyz.sh/) )*
 
