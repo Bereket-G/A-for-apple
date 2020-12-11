@@ -10,7 +10,7 @@
 
 - **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) )*
 
-- **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/) )*
+- **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/), [Deno](https://deno.land) )*
 
 - **E** - *( [Eclipse](https://www.eclipse.org/),[Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/), [Express.js](https://expressjs.com/) )*
 
@@ -34,11 +34,11 @@
 
 - **O** - *( [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) , [Oracle](https://www.oracle.com/index.html), [ohmyzsh](https://ohmyz.sh/) )*
 
-- **P** - *( [Pandas](https://pandas.pydata.org/) , [PHP](https://www.php.net/) , [Python](https://www.python.org/) )*
+- **P** - *( [Pandas](https://pandas.pydata.org/) , [PHP](https://www.php.net/) , [Python](https://www.python.org/), [Postgresql](https://www.postgresql.org/) )*
 
 - **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/) )*
 
-- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/) )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
 
 - **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
 
