@@ -48,7 +48,7 @@
 
 - **V** - *( [Visualstudio](https://visualstudio.microsoft.com/), [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/) )*
 
-- **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
+- **W** - *( [Web](https://en.wikipedia.org/wiki/Web), [WebSocket](https://en.wikipedia.org/wiki/WebSocket#) )*
 
 - **X** - *( [XML](https://www.xml.com/) )*
 
