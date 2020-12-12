@@ -38,7 +38,7 @@
 
 - **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/), [Quine](https://en.wikipedia.org/wiki/Quine_(computing)))*
 
-- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Rockstar](https://codewithrockstar.com/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
 
 - **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
 
