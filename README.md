@@ -36,7 +36,7 @@
 
 - **P** - *( [Pandas](https://pandas.pydata.org/) , [PHP](https://www.php.net/) , [Python](https://www.python.org/), [Postgresql](https://www.postgresql.org/) )*
 
-- **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/) )*
+- **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/), [Quine](https://en.wikipedia.org/wiki/Quine_(computing)))*
 
 - **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
 
