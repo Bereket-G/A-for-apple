@@ -24,7 +24,7 @@
 
 - **J** - *( [Java](https://www.java.com/en/), [Javascript](https://en.wikipedia.org/wiki/JavaScript) , [Jenkins](https://jenkins.io/) )*
 
-- **K** - *( [Kotlin](https://kotlinlang.org/) )*
+- **K** - *( [Kotlin](https://kotlinlang.org/), [Kubernetes](https://kubernetes.io/) )*
 
 - **L** - *( [Linux](https://www.linux.org/) , [Laravel](https://laravel.com/), [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) )*
 
@@ -42,7 +42,7 @@
 
 - **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
 
-- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) )*
+- **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), [Terraform](https://www.hashicorp.com/products/terraform))*
  
 - **U** - *( [Ubuntu](https://ubuntu.com/), [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
