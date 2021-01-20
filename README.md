@@ -1,14 +1,13 @@
 ## A for Apple 
 
 
-
 ### Z fun Programming dictionary 
 
-- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet), [Angular](https://angular.io/) )*
+- **A** - *( [Andriod](https://www.android.com/) , [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) , [AWS](https://aws.amazon.com/) , [ASP](https://dotnet.microsoft.com/apps/aspnet), [Angular](https://angular.io/), [Azure](https://azure.microsoft.com/) )*
 
 - **B** - *( [Bash](https://www.gnu.org/software/bash/), [Bootstrap](https://getbootstrap.com) )*
 
-- **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) )*
+- **C** - *( [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) , [C++](https://en.wikipedia.org/wiki/C%2B) , [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) [circleCI](https://circleci.com/))*
 
 - **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/), [Deno](https://deno.land) )*
 
@@ -16,7 +15,7 @@
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/), [Framer](https://www.framer.com/) )*
 
-- **G** - *( [Git](https://git-scm.com/) , [Go](https://golang.org/), [Gridsome](https://gridsome.org/), [GraphQL](https://graphql.org/)  )*
+- **G** - *( [Git](https://git-scm.com/) , [Go](https://golang.org/), [Gridsome](https://gridsome.org/), [GraphQL](https://graphql.org/) [Grepper](https://www.codegrepper.com/) )*
 
 - **H** - *( [Hadoop](https://hadoop.apache.org/), [Haskell](https://www.haskell.org/), [Heroku](https://www.heroku.com/), [Hibernate](https://hibernate.org/), [HTML](https://en.wikipedia.org/wiki/HTML) , [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [Homebrew](https://brew.sh/) )*
 
@@ -38,9 +37,9 @@
 
 - **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/), [Quine](https://en.wikipedia.org/wiki/Quine_(computing)))*
 
-- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Rockstar](https://codewithrockstar.com/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Rockstar](https://codewithrockstar.com/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/),[Rancher](https://rancher.com/) )*
 
-- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
+- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/), [SOAP](https://en.wikipedia.org/wiki/SOAP) )*
 
 - **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), [Terraform](https://www.hashicorp.com/products/terraform))*
  
