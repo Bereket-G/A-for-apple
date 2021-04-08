@@ -12,7 +12,7 @@
 
 - **D** - *( [D3](https://d3js.org/), [Database](https://en.wikipedia.org/wiki/Database) , [Django](https://www.djangoproject.com/), [Docker](https://hub.docker.com/), [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) , [DOT.NET](https://dotnet.microsoft.com/), [Deno](https://deno.land) )*
 
-- **E** - *( [Eclipse](https://www.eclipse.org/),[Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/), [Express.js](https://expressjs.com/) )*
+- **E** - *( [Eclipse](https://www.eclipse.org/),[Electron](https://www.electronjs.org),  [Elixir](https://elixir-lang.org/), [Express.js](https://expressjs.com/), [esbuild](https://esbuild.github.io/) )*
 
 - **F** - *( [F#]( https://fsharp.org/ ), [Flask](https://github.com/pallets/flask), [Firebase](https://firebase.google.com/), [Flutter](https://flutter.dev/), [Framer](https://www.framer.com/) )*
 
@@ -38,15 +38,15 @@
 
 - **Q** - *( [Queue](https://www.geeksforgeeks.org/queue-data-structure/) )*
 
-- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/) )*
+- **R** - *( [R](https://www.r-project.org/), [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), [ReactNative](https://reactnative.dev/), [Ruby](https://www.ruby-lang.org/en/), [Rust](https://www.rust-lang.org/), [Rollup](https://rollupjs.org/guide/en/) )*
 
-- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/) )*
+- **S** - *( [Scala](https://www.scala-lang.org/), [Swift](https://developer.apple.com/swift/), [Stack-Overflow](https://stackoverflow.com/), [SQL](https://en.wikipedia.org/wiki/SQL), [Strapi](https://strapi.io/), [Sass](https://sass-lang.com/), [SnowPack](https://snowpack.dev) )*
 
 - **T** - *( [Terminal](http://linuxcommand.org/), [Tensorflow](https://www.tensorflow.org/), [tailwindcss](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/) )*
  
 - **U** - *( [Ubuntu](https://ubuntu.com/), [Unix](https://www.unix.com/), [URL](https://en.wikipedia.org/wiki/URL) )*
 
-- **V** - *( [Visualstudio](https://visualstudio.microsoft.com/), [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/) )*
+- **V** - *( [Visualstudio](https://visualstudio.microsoft.com/), [vba](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/), [Vite](https://vitejs.dev) )*
 
 - **W** - *( [Web](https://en.wikipedia.org/wiki/Web) )*
 
